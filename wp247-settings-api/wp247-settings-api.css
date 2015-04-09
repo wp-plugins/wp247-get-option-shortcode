@@ -1,0 +1,21 @@
+/*
+ * wp247 Settings API Styles
+*/
+.form-table th { padding-left: 12px; }
+
+.wp247sapi {
+	min-width: 216px;
+	display: inline-block;
+}
+
+.wp247sapi-indent {
+	padding-left: 16px;
+	min-width: 200px;
+	display: inline-block;
+}
+
+.wp247sapi-button {
+	height: auto !important;
+	width: 100% !important;
+	white-space: normal !important;
+}
