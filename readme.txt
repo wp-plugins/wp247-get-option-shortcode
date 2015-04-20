@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: options, shortcode, get_option
 Requires at least: 4.0
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,9 @@ That's it. You're now ready to include WordPress options on your site.
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.1 =
+Remove namespace use in WP247 Settings API to due errors
 
 = 1.0 =
 First release on 2015-April-9

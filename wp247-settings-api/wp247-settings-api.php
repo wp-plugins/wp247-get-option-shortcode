@@ -2,12 +2,17 @@
 /**
  * wp247 Settings API wrapper class
  *
- * @version 1.1
+ * @version 1.2
  *
  */
+/* Skip namespace usage due to errors
 namespace wp247sapi;
+*/
 
+/* Skip namespace usage due to errors
 if ( !class_exists( '\wp247sapi\WP247_Settings_API' ) )
+*/
+if ( !class_exists( 'WP247_Settings_API' ) )
 {
 
 	class WP247_Settings_API

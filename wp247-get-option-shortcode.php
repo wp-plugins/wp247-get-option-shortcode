@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: WP247 Get Option Shortcode
-	Version: 1.0
+	Version: 1.0.1
 	Description: Include WordPress options anywhere shortcodes are accepted
 
 	Tags: options, shortcode, get_option
